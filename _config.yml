@@ -18,7 +18,6 @@ author:
     Developed works addresses deep learning and computer vision approaches for image processing to classify fire.
     Current development stage tries to solve UAV control for an autonomous object navigation problem.
     Therefore, research interest includes computer vision, reinforcement learning, robotics.
-    Meet the developed projects at <a href="https://github.com/angel-ayala" target="_blank" rel="noopener">@github</a>.
   username: angel-ayala # general username
   github: angel-ayala # github username
   twitter: # twitter username
@@ -29,8 +28,8 @@ author:
 # URL settings
 url: "https://angel-ayala.github.io" #
 baseurl:
-permalink: /:title/
-google_analytics: # leave it blank if not wish
+permalink: /blog/:title/
+google_analytics: G-76VH142E02  # leave it blank if not wish
 fb_appid:
 
 # Collection setting

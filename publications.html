@@ -1,0 +1,13 @@
+---
+title: Publications
+permalink: /publications/
+layout: page
+excerpt: All publications.
+comments: false
+---
+
+{% assign journal_papers = site.data.papers | where: 'booktitle', nil %}
+{% include papers_list.html list_title="Journal Articles" papers=journal_papers %}
+<hr/>
+{% assign conference_papers = site.data.papers | where: 'journal', nil %}
+{% include papers_list.html list_title="Conference Papers" papers=conference_papers %}

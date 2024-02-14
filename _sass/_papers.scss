@@ -1,0 +1,27 @@
+ul.papers-list {
+  .paper-item {
+    margin-bottom: 10px;
+    padding-bottom: 5px;
+    
+    &::before {
+    	content: "\2192";
+    }
+    
+    &:not(:last-child) {
+    	border-bottom: 1px dotted $black;
+    }
+  }
+
+  .paper-title {
+  	 font-style: italic;
+  	 font-weight: bold;
+  }
+}
+
+body[data-theme="dark"] {
+  ul.papers-list {
+    .paper-item {
+    	border-bottom-color: $light
+    }
+  }
+}

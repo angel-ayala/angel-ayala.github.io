@@ -14,8 +14,9 @@ $bold-weight: 700;
 
 //Light Colors
 $text-base-color: #434648;
-$text-link-blue: #003fff;
-$text-link-blue-active: #0036c7;
+$text-link-blue: #007cb9;
+$text-link-blue-active: #005689;
+$text-link-blue-focus: rgba(0, 54, 199, 0.6);
 
 $black: #0d122b;
 $light: #ececec;
@@ -25,12 +26,13 @@ $white: #fff;
 
 // Dark Colors
 $dark-text-base-color: #c7bebe;
-$dark-text-link-blue: #ff5277;
-$dark-text-link-blue-active: #ff2957;
+$dark-text-link-blue: #42b883;
+$dark-text-link-blue-active: #347474;
+$dark-text-link-blue-focus: rgba(52, 116, 116, 0.6);
 
 $dark-black: #131418;
 $dark-white: #eaeaea;
-$dark-light: #1b1d25;
+$dark-light: #343847;
 $dark-smoke: #4a4d56;
 $dark-gray: #767f87;
 
@@ -61,3 +63,4 @@ $on-widescreen: 1152px;
 // Import sass files
 @import "klise/fonts", "klise/base", "klise/layout", "klise/post",
   "klise/miscellaneous", "klise/syntax", "klise/dark";
+@import "papers";

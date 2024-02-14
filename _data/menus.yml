@@ -2,9 +2,9 @@
   url: /
   external: false
 
-# - title: Archive
-#   url: /archive/
-#   external: false
+- title: Publications
+  url: /publications/
+  external: false
 
 - title: About
   url: /about/
