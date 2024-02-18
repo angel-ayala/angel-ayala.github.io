@@ -2,7 +2,7 @@
 title: About me
 permalink: /about/
 layout: page
-excerpt: Hello peeps, I'm a PhD candidate of computer science at the Universidade de Pernambuco, Brazil.
+excerpt: Hello peeps, I'm a PhD candidate of computer science at the Universidade de Pernambuco in Recife, Brazil.
 comments: false
 ---
 
@@ -13,9 +13,4 @@ He has already published papers in his early academic career, including efficien
 His research focuses on autonomous control of unmanned aerial vehicles for fire disaster management.
 Its current research areas are robotics, computer vision, and reinforcement learning methodologies.
 
-If you have a question about him or else, just send an email to him.
-
-**may u needs ✨**
-
-- {{ site.author.email }}
-- github.com/{{ site.author.github }}
+If you have a question about him or else, just send an email to him {{ site.author.email }}.

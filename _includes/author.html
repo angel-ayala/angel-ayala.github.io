@@ -1,19 +1,22 @@
 <div class="author">
-  <img
-    class="author-avatar"
-    src="{{ site.author.avatar }}"
-    alt="{{ site.author.username }}"
-  />
+  <h1 class="author-name">{{ site.author.name }}</h1>
+  <h3 class="author-affiliation"><a href="{{ site.author.affiliation_url}}" target="_blank">{{ site.author.affiliation }}</a></h3>
   <div class="author-bio">
-    <h2 class="author-name">{{ site.author.name }}</h2>
-    {{ site.author.bio }}
-  </div>
+  <img class="author-avatar"
+    src="{{ site.author.avatar }}"
+    alt="{{ site.author.name }}"
+  />
+  {{ site.author.bio }} </div>
+  <hr>
   <ul class="author-social">
-    <li><a href="https://github.com/angel-ayala" target="_blank">Github</a></li>
-    <li><a href="https://scholar.google.cl/citations?user=VvqjUVYAAAAJ" target="_blank">Google Scholar</a></li>
-    <li><a href="https://www.linkedin.com/in/angel-ayala-8690761b5/" target="_blank">Linkedin</a></li>
-    <li><a href="https://www.webofscience.com/wos/author/record/AAS-5701-2020" target="_blank">WebOfScience</a></li>
-    <li><a href="https://orcid.org/0000-0003-0732-7017" target="_blank">ORCID</a></li>
-    <li><a href="https://www.scopus.com/authid/detail.uri?authorId=57210393305" target="_blank">Scopus</a></li>
+    <li><a class="icon icon-github" href="https://github.com/angel-ayala" target="_blank" title="Angel Ayala's Github profile"></a></li>
+    <li><a class="icon icon-google-scholar" href="https://scholar.google.cl/citations?user=VvqjUVYAAAAJ" target="_blank" title="Angel Ayala's Google Scholar profile"></a></li>
+    <li><a class="icon icon-webofscience" href="https://www.webofscience.com/wos/author/record/AAS-5701-2020" target="_blank" title="Angel Ayala's WebOfScience profile"></a></li>
+    <li><a class="icon icon-scopus" href="https://www.scopus.com/authid/detail.uri?authorId=57210393305" target="_blank" title="Angel Ayala's Scopus profile"></a></li>
+    <li><a class="icon icon-lattes" href="http://lattes.cnpq.br/7881645237344440&idiomaExibicao=2" target="_blank" title="Angel Ayala's Lattes profile"></a></li>
+    <li><a class="icon icon-orcid" href="https://orcid.org/0000-0003-0732-7017" target="_blank" title="Angel Ayala's ORCID profile"></a></li>
+    <li><a class="icon icon-linkedin" href="https://www.linkedin.com/in/angel-ayala-8690761b5/" target="_blank" title="Angel Ayala's Linkedin profile"></a></li>
   </ul>
+  <hr>
+  <b>Email:</b> aaam [at] ecomp.poli.br
 </div>

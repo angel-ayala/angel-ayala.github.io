@@ -189,30 +189,130 @@
     margin-bottom: 3em;
   }
 
-  .author-avatar {
-    width: 250px;
-    height: 250px;
-    border-radius: 100%;
-    user-select: none;
-    background-color: $black;
-    -ms-user-select: none;
-    -webkit-user-select: none;
-    -webkit-animation: 0.5s ease-in forwards fadein;
-    animation: 0.5s ease-in forwards fadein;
-    opacity: 1;
-  }
-
   .author-name {
-    font-size: 1.7em;
+    font-size: 3.2em;
     margin-bottom: 2px;
+  }
+  
+  .author-affiliation {
+    margin-top: -7px;
+    font-weight: $normal-weight;
   }
 
   .author-bio {
+    text-align: justify;
     margin: 0 auto;
     opacity: 0.9;
-    max-width: 393px;
     line-height: 1.688;
+    min-height: 250px;
+    margin: $spacing-full 0;
+
+    .author-avatar {
+  	   width: 250px;
+      height: 250px;
+      display: block;
+      float: left;
+      border-radius: 100%;
+      user-select: none;
+      -ms-user-select: none;
+      -webkit-user-select: none;
+      -webkit-animation: 0.5s ease-in forwards fadein;
+      animation: 0.5s ease-in forwards fadein;
+      opacity: 1;
+      margin: 0 $spacing-full;
+      padding: 20px 0;
+      
+      @include media-query($on-mobile) {
+        float: none;
+        margin: $spacing-full auto;
+        padding: 0;
+      }
+    }
   }
+  
+  .author-social {
+    margin: 10px 0;    
+    height: 55px;
+
+    li {
+      display: inline-block;
+      padding: 0;
+      margin-right: 5px;
+      
+      &::before {
+        content: none;
+      }
+    }
+
+    .icon {
+      width: 40px;
+      height: 40px;
+      background: $text-base-color;
+      mask-size: cover;
+      display: inline-block;
+    }
+
+    .icon-github {
+      mask-image: url(https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg);      
+      width: 39px;
+      
+      &:hover {
+        background: #000000;
+      }
+    }
+    
+    .icon-google-scholar {
+      mask-image: url(https://raw.githubusercontent.com/jpswalsh/academicons/master/svg/google-scholar.svg);
+      height: 50px;
+
+      &:hover {
+        background: #356ac3;
+      }
+    }
+    
+    .icon-linkedin {
+      mask-image: url(https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin.svg);
+      width: 35px;
+
+      &:hover {
+        background: #0077b5;
+      }
+    }
+    
+    .icon-orcid {
+      mask-image: url(https://raw.githubusercontent.com/jpswalsh/academicons/master/svg/orcid.svg);
+
+      &:hover {
+        background: #a6ce39;
+      }
+    }
+
+    .icon-scopus {
+      mask-image: url(https://raw.githubusercontent.com/jpswalsh/academicons/master/svg/scopus.svg);
+      
+      &:hover {
+        background: #eb6500;
+      }
+    }
+
+    .icon-webofscience {
+      mask-image: url(https://raw.githubusercontent.com/jpswalsh/academicons/master/svg/clarivate.svg);
+      
+      &:hover {
+        background: #5e30c0;
+      }
+    }
+
+    .icon-lattes {
+      mask-image: url(https://raw.githubusercontent.com/jpswalsh/academicons/master/svg/lattes.svg);
+      height: 45px;
+      
+      &:hover {
+        background: #4b4a8a;
+      }
+    }
+  }
+  
 }
 
 // Content

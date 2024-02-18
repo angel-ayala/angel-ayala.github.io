@@ -244,4 +244,34 @@ body[data-theme="dark"] {
       }
     }
   }
+  
+  // Author
+  .author {
+    .author-social {
+      .icon {
+        background: $dark-text-base-color;
+      }
+      .icon-github:hover {
+        background: #ffffff;
+      }      
+      .icon-google-scholar:hover {
+        background: #356ac3;
+      }
+      .icon-linkedin:hover {
+        background: #ffffff;
+      }
+      .icon-orcid:hover {
+        background: #a6ce39;
+      }
+      .icon-scopus:hover {
+        background: #eb6500;
+      }
+      .icon-webofscience:hover {
+        background: #5e30c0;
+      }
+      .icon-lattes:hover {
+        background: #4b4a8a;
+      }
+    }
+  }
 }
