@@ -1,0 +1,123 @@
+.about-info {
+  h2 {
+    @include relative-font-size(1.375);
+    border-bottom: 1px solid $light;
+  }
+
+  h4 {
+    margin-top: 10px;
+  }
+
+  table {    
+    tr {
+      border-left: 0px;
+      border-right: 0px;
+
+      td {
+        border-left: 0px;
+        border-right: 0px;
+        vertical-align: top;
+
+        span[class*="-title"] {
+          font-weight: $bold-weight;
+        }
+
+        &[class*="-date"] {
+          min-width: 60px;
+          text-align: right;
+        }
+      }
+
+      &:nth-child(odd) {
+        background-color: $light;
+      }
+    }
+
+    a {
+      text-decoration: underline dashed;
+      &[target="_blank"]::after {
+        content: none;
+      }
+    }
+
+  }
+
+  table.degrees-list {
+    tr {
+      td {
+        span {
+          display: block;
+
+          &.degree-work {
+            font-style: italic;
+          }
+        }
+      }
+    }
+  }
+
+  table.experience-list {
+    td {
+      .experience-institution {
+        font-style: italic;
+      }
+    }
+    li::before {
+      content: "📝";
+      width: 1.4em;
+    }
+  }
+
+  ul.skills-list {
+    li.skill-item {
+      color: $white;
+      display: inline-block;
+      margin: 0.1em;
+      padding: 0.01em 0.4em;
+      background: $light;
+      border-radius: 10px;
+      text-shadow: 0 1px 0 $gray;
+
+      &::before {
+        content: none;
+      }
+    }
+
+    .skill-IDE {
+      background-color: #327a9a !important;
+    }
+
+    .skill-ML {
+      background-color: #ad4901 !important;
+    }
+
+    .skill-OS {
+      background-color: #0d34b4 !important;
+    }
+
+    .skill-software {
+      background-color: #187a18 !important;
+    }
+
+    .skill-language {
+      background-color: #947e02 !important;
+    }
+  }
+}
+
+body[data-theme="dark"] {
+  .about-info {
+    h2 {
+      border-color: $dark-light;
+    }
+
+    table {
+      tr {  
+        &:nth-child(odd) {
+          background-color: $dark-light;
+        }
+      }
+    }
+
+  }
+}

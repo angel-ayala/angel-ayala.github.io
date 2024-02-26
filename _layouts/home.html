@@ -3,6 +3,7 @@ layout: default
 home: true
 ---
 
-<h3 aria-label="Recent Publications"><a href="\publications">Recent Publications</a></h3>
-{% assign recent_papers = site.data.papers | slice: 1, site.number_of_publications %}
+<h3 aria-label="Latest publications">Latest publications</h3>
+{% assign recent_papers = site.data.papers | slice: 0, site.number_of_publications %}
 {% include papers_list.html papers=recent_papers %}
+<a href="/publications">See all publications</a>

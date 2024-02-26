@@ -1,42 +1,57 @@
 - title: Urban Autonomous Driving of Emergency Vehicles with Reinforcement Learning
-  author: Tong, Zherui and Ayala, Angel and Sandoval, Eduardo Benitez and Cruz, Francisco
+  author: >-
+    Tong, Zherui and Ayala, Angel and Sandoval, Eduardo Benitez and Cruz,
+    Francisco
   booktitle: IEEE Latin American Conference on Computational Intelligence (LA-CCI)
   pages: 1-6
   year: 2023
   organization: IEEE
-  url: "https://ieeexplore.ieee.org/abstract/document/10409469"
-
-- title: "Re-purposing Machine Learning Models: A Human Action Recognition Model Turned Violence Detector"
-  author: Portela, Letícia and Ayala, Angel and Fernandes, Bruno and Farias, Igor and Neto, Gervásio and Gomes, Mouglas Eugenio Nasário
+  url: https://ieeexplore.ieee.org/abstract/document/10409469
+- title: >-
+    Re-purposing Machine Learning Models: A Human Action Recognition Model
+    Turned Violence Detector
+  author: >-
+    Portela, Letícia and Ayala, Angel and Fernandes, Bruno and Farias, Igor and
+    Neto, Gervásio and Gomes, Mouglas Eugenio Nasário
   booktitle: IEEE Latin American Conference on Computational Intelligence (LA-CCI)
   pages: 1-6
   year: 2023
   organization: IEEE
-  url: "https://ieeexplore.ieee.org/abstract/document/10409475"
-
-- title: Time estimation for deep learning model’s inference in distributed processing units
-  author: Portugal, Ernesto and Ayala, Angel and Cruz, Francisco and Fernandes, Bruno and Murilo, Sergio
+  url: https://ieeexplore.ieee.org/abstract/document/10409475
+- title: >-
+    Time estimation for deep learning model's inference in distributed
+    processing units
+  author: >-
+    Portugal, Ernesto and Ayala, Angel and Cruz, Francisco and Fernandes, Bruno
+    and Murilo, Sergio
   booktitle: IEEE Latin American Conference on Computational Intelligence (LA-CCI)
   pages: 1-6
   year: 2023
   organization: IEEE
-  url: "https://ieeexplore.ieee.org/abstract/document/10409398"
-
-- title: "UAV Control in Autonomous Object-Goal Navigation: A Systematic Literature Review"
-  author: Ayala, Angel and Portela, Leticia and Buarque, Fernando and Fernandes, Bruno and Cruz, Francisco
+  url: https://ieeexplore.ieee.org/abstract/document/10409398
+- title: >-
+    UAV Control in Autonomous Object-Goal Navigation: A Systematic Literature
+    Review
+  author: >-
+    Ayala, Angel and Portela, Leticia and Buarque, Fernando and Fernandes, Bruno
+    and Cruz, Francisco
   journal: Under review, Research Square preprint
   year: 2023
-  url: "https://www.researchsquare.com/article/rs-2515380/v1"
-
-- title: Explaining Agent's Decision-making in a Hierarchical Reinforcement Learning Scenario
-  author: Muñoz, Hugo and Portugal, Ernesto and Ayala, Angel and Fernandes, Bruno and Cruz, Francisco
+  url: https://www.researchsquare.com/article/rs-2515380/v1
+- title: >-
+    Explaining Agent's Decision-making in a Hierarchical Reinforcement Learning
+    Scenario
+  author: >-
+    Muñoz, Hugo and Portugal, Ernesto and Ayala, Angel and Fernandes, Bruno and
+    Cruz, Francisco
   booktitle: 41st International Conference of the Chilean Computer Science Society (SCCC)
   pages: 1-8
   year: 2022
   organization: IEEE
-  url: "https://ieeexplore.ieee.org/abstract/document/10000321"
-
-- title: Analysis of explainable goal-driven reinforcement learning in a continuous simulated environment
+  url: https://ieeexplore.ieee.org/abstract/document/10000321
+- title: >-
+    Analysis of explainable goal-driven reinforcement learning in a continuous
+    simulated environment
   author: Portugal, Ernesto and Cruz, Francisco and Ayala, Angel and Fernandes, Bruno
   journal: Algorithms
   volume: 15
@@ -44,50 +59,62 @@
   pages: 91
   year: 2022
   publisher: MDPI
-  url: "https://www.mdpi.com/1999-4893/15/3/91"
-
+  url: https://www.mdpi.com/1999-4893/15/3/91
 - title: Convolution Optimization in Fire Classification
-  author: Ayala, Angel and Fernandes, Bruno José Torres and Cruz, Francisco and Macedo, David and Zanchettin, Cleber
+  author: >-
+    Ayala, Angel and Fernandes, Bruno José Torres and Cruz, Francisco and
+    Macedo, David and Zanchettin, Cleber
   journal: IEEE Access
   volume: 10
   pages: 23642-23658
   year: 2022
   publisher: IEEE
-  url: "https://ieeexplore.ieee.org/abstract/document/9714344"
-
+  url: https://ieeexplore.ieee.org/abstract/document/9714344
 - title: Diabetic retinopathy improved detection using deep learning
-  author: Ayala, Angel and Ortiz Figueroa, Tomas and Fernandes, Bruno and Cruz, Francisco
+  author: >-
+    Ayala, Angel and Ortiz Figueroa, Tomas and Fernandes, Bruno and Cruz,
+    Francisco
   journal: Applied Sciences
   volume: 11
   number: 24
   pages: 11970
   year: 2021
   publisher: MDPI
-  url: "https://www.mdpi.com/2076-3417/11/24/11970"
-
-- title: "KutralNext: An Efficient Multi-label Fire and Smoke Image Recognition Model"
-  author: Ayala, Angel and Macêdo, David and Zanchettin, Cleber and Cruz, Francisco and Fernandes, Bruno
+  url: https://www.mdpi.com/2076-3417/11/24/11970
+- title: 'KutralNext: An Efficient Multi-label Fire and Smoke Image Recognition Model'
+  author: >-
+    Ayala, Angel and Macêdo, David and Zanchettin, Cleber and Cruz, Francisco
+    and Fernandes, Bruno
   booktitle: Anais Estendidos do XXXIV Conference on Graphics, Patterns and Images
   pages: 7-13
   year: 2021
   organization: SBC
-  url: "https://sol.sbc.org.br/index.php/sibgrapi_estendido/article/download/20007/19835/"
-
-- title: Explainable deep reinforcement learning using introspection in a non-episodic task
+  url: >-
+    https://sol.sbc.org.br/index.php/sibgrapi_estendido/article/download/20007/19835/
+- title: >-
+    Explainable deep reinforcement learning using introspection in a
+    non-episodic task
   author: Ayala, Angel and Cruz, Francisco and Fernandes, Bruno and Dazeley, Richard
-  booktitle: International Conference on Development and Learning (ICDL), Workshop on Human-aligned Reinforcement Learning for Autonomous Agents and Robots, Beijing (virtual), China
+  booktitle: >-
+    International Conference on Development and Learning (ICDL), Workshop on
+    Human-aligned Reinforcement Learning for Autonomous Agents and Robots,
+    Beijing (virtual), China
   year: 2021
-  url: "https://arxiv.org/abs/2108.08911"
-
-- title: "A comparison of humanoid robot simulators: A quantitative approach"
-  author: Ayala, Angel and Cruz, Francisco and Campos, Diego and Rubio, Rodrigo and Fernandes, Bruno and Dazeley, Richard
-  booktitle: Joint IEEE 10th International Conference on Development and Learning and Epigenetic Robotics (ICDL-EpiRob)
+  url: https://arxiv.org/abs/2108.08911
+- title: 'A comparison of humanoid robot simulators: A quantitative approach'
+  author: >-
+    Ayala, Angel and Cruz, Francisco and Campos, Diego and Rubio, Rodrigo and
+    Fernandes, Bruno and Dazeley, Richard
+  booktitle: >-
+    Joint IEEE 10th International Conference on Development and Learning and
+    Epigenetic Robotics (ICDL-EpiRob)
   pages: 1-6
   year: 2020
   organization: IEEE
-  url: "https://ieeexplore.ieee.org/abstract/document/9278116"
-
-- title: Unmanned aerial vehicle control through domain-based automatic speech recognition
+  url: https://ieeexplore.ieee.org/abstract/document/9278116
+- title: >-
+    Unmanned aerial vehicle control through domain-based automatic speech
+    recognition
   author: Contreras, Ruben and Ayala, Angel and Cruz, Francisco
   journal: Computers
   volume: 9
@@ -95,37 +122,46 @@
   pages: 75
   year: 2020
   publisher: MDPI
-  url: "https://www.mdpi.com/2073-431X/9/3/75"
-
-- title: "KutralNet: A portable deep learning model for fire recognition"
-  author: Ayala, Angel and Fernandes, Bruno and Cruz, Francisco and Macêdo, David and Oliveira, Adriano LI and Zanchettin, Cleber
+  url: https://www.mdpi.com/2073-431X/9/3/75
+- title: 'KutralNet: A portable deep learning model for fire recognition'
+  author: >-
+    Ayala, Angel and Fernandes, Bruno and Cruz, Francisco and Macêdo, David and
+    Oliveira, Adriano LI and Zanchettin, Cleber
   booktitle: International Joint Conference on Neural Networks (IJCNN)
   pages: 1-8
   year: 2020
   organization: IEEE
-  url: "https://ieeexplore.ieee.org/abstract/document/9207202"
-
-- title: Deep reinforcement learning with interactive feedback in a human-robot environment
-  author: Moreira, Ithan and Rivas, Javier and Cruz, Francisco and Dazeley, Richard and Ayala, Angel and Fernandes, Bruno
+  url: https://ieeexplore.ieee.org/abstract/document/9207202
+- title: >-
+    Deep reinforcement learning with interactive feedback in a human-robot
+    environment
+  author: >-
+    Moreira, Ithan and Rivas, Javier and Cruz, Francisco and Dazeley, Richard
+    and Ayala, Angel and Fernandes, Bruno
   journal: Applied Sciences
   volume: 10
   number: 16
   pages: 5574
   year: 2020
   publisher: MDPI
-  url: "https://www.mdpi.com/2076-3417/10/16/5574"
-
-- title: Lightweight and efficient octave convolutional neural network for fire recognition
-  author: Ayala, Angel and Lima, Estanislau and Fernandes, Bruno and Bezerra, Byron LD and Cruz, Francisco
+  url: https://www.mdpi.com/2076-3417/10/16/5574
+- title: >-
+    Lightweight and efficient octave convolutional neural network for fire
+    recognition
+  author: >-
+    Ayala, Angel and Lima, Estanislau and Fernandes, Bruno and Bezerra, Byron LD
+    and Cruz, Francisco
   booktitle: IEEE Latin American Conference on Computational Intelligence (LA-CCI)
   pages: 1-6
   year: 2019
   organization: IEEE
   url: https://ieeexplore.ieee.org/abstract/document/9037059
-
 - title: Reinforcement learning using continuous states and interactive feedback
   author: Ayala, Angel and Henríquez, Claudio and Cruz, Francisco
-  booktitle: Proceedings of the 2nd International Conference on Applications of Intelligent Systems
+  booktitle: >-
+    Proceedings of the 2nd International Conference on Applications of
+    Intelligent Systems
   pages: 1-5
   year: 2019
   url: https://dl.acm.org/doi/abs/10.1145/3309772.3309801
+

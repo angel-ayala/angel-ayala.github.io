@@ -7,9 +7,9 @@ comments: false
 ---
 
 <h2>Journal Articles</h2>
-{% assign journal_papers = site.data.papers | where: 'booktitle', nil %}
+{%- assign journal_papers = site.data.papers | where: 'booktitle', nil -%}
 {% include papers_list.html papers=journal_papers %}
 <hr>
 <h2>Conference Papers</h2>
-{% assign conference_papers = site.data.papers | where: 'journal', nil %}
+{%- assign conference_papers = site.data.papers | where: 'journal', nil -%}
 {% include papers_list.html papers=conference_papers %}

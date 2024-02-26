@@ -1,0 +1,116 @@
+- name: Arch Linux
+  level: 3
+  category: Operating system
+  tag: OS
+- name: Debian Linux
+  level: 2
+  category: Operating system
+  tag: OS
+- name: Microsoft Windows
+  level: 2
+  category: Operating system
+  tag: OS
+- name: Microsoft Office (Excel, Word, Powerpoint)
+  level: 2
+  category: Software
+  tag: software
+- name: UiPath
+  level: 1
+  category: Software
+  tag: software
+- name: Spyder
+  level: 3
+  category: Integrated development environment
+  tag: IDE
+- name: VS Code
+  level: 2
+  category: Integrated development environment
+  tag: IDE
+- name: Eclipse
+  level: 1
+  category: Integrated development environment
+  tag: IDE
+- name: Netbeans
+  level: 1
+  category: Integrated development environment
+  tag: IDE
+- name: Webots
+  level: 3
+  category: Simulation software
+  tag: software
+- name: CoppeliaSim
+  level: 1
+  category: Simulation software
+  tag: software
+- name: Python
+  level: 3
+  category: Programming languages
+  tag: language
+- name: PHP
+  level: 2
+  category: Programming languages
+  tag: language
+- name: Javascript
+  level: 2
+  category: Programming languages
+  tag: language
+- name: Ruby
+  level: 1
+  category: Programming languages
+  tag: language
+- name: Java
+  level: 1
+  category: Programming languages
+  tag: language
+- name: VBA
+  level: 1
+  category: Programming languages
+  tag: language
+- name: MATLAB/Octave
+  level: 1
+  category: Programming languages
+  tag: language
+- name: HTML/HTML5
+  level: 2
+  category: Markup language
+  tag: language
+- name: CSS/CSS3
+  level: 2
+  category: Other languages
+  tag: language
+- name: Sass
+  level: 1
+  category: Other languages
+  tag: language
+- name: AngularJS
+  level: 1
+  category: Framework
+  tag: language
+- name: Laravel
+  level: 1
+  category: Framework
+  tag: language
+- name: Ruby on Rails
+  level: 1
+  category: Framework
+  tag: language
+- name: Latex
+  level: 2
+  category: Software
+  tag: software
+- name: MySql
+  level: 2
+  category: Databases
+  tag: language
+- name: Pytorch
+  level: 3
+  category: Machine learning libraries
+  tag: ML
+- name: Tensorflow
+  level: 1
+  category: Machine learning libraries
+  tag: ML
+- name: Keras
+  level: 2
+  category: Machine learning libraries
+  tag: ML

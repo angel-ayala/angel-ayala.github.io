@@ -14,7 +14,7 @@ author:
   name: Angel Ayala # author name
   bio: >- # tell to the world
     👋 I'm a PhD student at the Universidade de Pernambuco in Recife, Brazil.
-    I’m currently researching about UAV control for a fire emergency response.
+    I'm currently researching about UAV control for a fire emergency response.
     Developed works addresses deep learning and computer vision approaches for image processing to classify fire.
     Current development stage tries to solve UAV control for an autonomous object navigation problem.
     Therefore, research interest includes computer vision, reinforcement learning, robotics.
@@ -23,7 +23,7 @@ author:
   twitter: # twitter username
   facebook: # facebook username
   email: aaam [at] ecomp.poli.br # email adress
-  avatar: /assets/img/perfil_cuadrado.jpg # change with your own avatar
+  avatar: /assets/img/perfil_cuadrado.png # change with your own avatar
   affiliation: PhD. candidate at Universidade de Pernambuco
   affiliation_url: https://w2.solucaoatrio.net.br/somos/upe-ppgec/index.php/pt/
 
