@@ -1,3 +1,16 @@
+- title: >-
+    UAV Control in Autonomous Object-Goal Navigation: A Systematic Literature
+    Review
+  author: >-
+    Ayala, Angel and Portela, Leticia and Buarque, Fernando and Fernandes, Bruno
+    and Cruz, Francisco
+  journal: Artificial Intelligence Review
+  volume: 57
+  number: 5
+  pages: 1-64
+  year: 2024
+  publisher: Springer
+  url: https://link.springer.com/article/10.1007/s10462-024-10758-7
 - title: Urban Autonomous Driving of Emergency Vehicles with Reinforcement Learning
   author: >-
     Tong, Zherui and Ayala, Angel and Sandoval, Eduardo Benitez and Cruz,
@@ -29,15 +42,6 @@
   year: 2023
   organization: IEEE
   url: https://ieeexplore.ieee.org/abstract/document/10409398
-- title: >-
-    UAV Control in Autonomous Object-Goal Navigation: A Systematic Literature
-    Review
-  author: >-
-    Ayala, Angel and Portela, Leticia and Buarque, Fernando and Fernandes, Bruno
-    and Cruz, Francisco
-  journal: Under review, Research Square preprint
-  year: 2023
-  url: https://www.researchsquare.com/article/rs-2515380/v1
 - title: >-
     Explaining Agent's Decision-making in a Hierarchical Reinforcement Learning
     Scenario
