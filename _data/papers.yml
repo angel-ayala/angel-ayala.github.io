@@ -1,4 +1,44 @@
 - title: >-
+    Explainability Through Axioms: An Axiomatic Explainable Reinforcement Learning Framework
+  author: >-
+    Hashemi, Maryam and Darejeh, Ali and Ayala, Angel and Cruz Naranjo, Francisco
+  booktitle: (submitted to SSRN)
+  pages: 1-6
+  year: 2024
+  organization: SSRN
+  url: https://ssrn.com/abstract=5231608
+- title: >-
+    How Can LLMs and Knowledge Graphs Contribute to Robot Safety? A Few-Shot
+    Learning Approach
+  author: >-
+    Althobaiti, Abdulrahman and Ayala, Angel and Gao, JingYing and Almutairi, Ali and Deghat, Mohammad
+    and Razzak, Imran and Cruz, Francisco
+  booktitle: Australasian Conference on Robotics and Automation (ACRA)
+  pages: 1-6
+  year: 2024
+  organization: ACRA
+  url: https://ssl.linklings.net/conferences/acra/acra2024_proceedings/views/by_sub_type.html#pap133
+- title: >-
+    eXplainable Reinforcement Learning Using Introspection in a Competitive Scenario
+  author: >-
+    Opazo, Alfonso and Ayala, Angel and Barros, Pablo and Fernandes, Bruno
+    and Cruz, Francisco
+  booktitle: IEEE Latin American Conference on Computational Intelligence (LA-CCI)
+  pages: 1-6
+  year: 2024
+  organization: IEEE
+  url: https://ieeexplore.ieee.org/abstract/document/10814839
+- title: >-
+    Safety first: Toward safe action selection with contextual affordances
+  author: >-
+    Apablaza, Inés and Saavedra, Martín and Ayala, Angel and Fernandes, Bruno
+    and Cruz, Francisco
+  booktitle: IEEE Latin American Conference on Computational Intelligence (LA-CCI)
+  pages: 1-6
+  year: 2024
+  organization: IEEE
+  url: https://ieeexplore.ieee.org/abstract/document/10814833
+- title: >-
     UAV Control in Autonomous Object-Goal Navigation: A Systematic Literature
     Review
   author: >-
