@@ -1,0 +1,16 @@
+ul.awards-list {
+  @extend .papers-list;
+
+  .award-item {
+    @extend .paper-item;
+
+    &::before {
+    	content: "\2605";
+    }
+  }
+
+  .award-year {
+    font-weight: bold;
+  }
+
+}

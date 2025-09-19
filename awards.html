@@ -1,0 +1,16 @@
+---
+title: Awards and More
+permalink: /awards/
+layout: page
+excerpt: Awards and more
+comments: false
+---
+
+<h2>Awards</h2>
+<ul class="awards-list">
+{%- for award in site.data.awards -%}
+  <li class="award-item">
+    <span class="award-year">{{ award.year }}</span>: <span class="award-description">{{ award.description }}</span>
+  </li>
+{%- endfor -%}
+</ul>

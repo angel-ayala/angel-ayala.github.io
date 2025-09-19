@@ -1,0 +1,104 @@
+.author {
+  @extend .author;
+
+  .author-social {
+    margin: 10px 0;    
+    height: 55px;
+
+    li {
+      display: inline-block;
+      padding: 0;
+      margin-right: 5px;
+      
+      &::before {
+        content: none;
+      }
+    }
+
+    .icon {
+      width: 40px;
+      height: 40px;
+      background: $text-base-color;
+      mask-size: cover;
+      display: inline-block;
+    }
+
+    .icon-github {
+      mask-image: url(https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/github.svg);      
+      width: 39px;
+      
+      &:hover {
+        background: #000000;
+      }
+    }
+    
+    .icon-google-scholar {
+      mask-image: url(https://raw.githubusercontent.com/jpswalsh/academicons/master/svg/google-scholar.svg);
+      height: 50px;
+
+      &:hover {
+        background: #356ac3;
+      }
+    }
+    
+    .icon-linkedin {
+      mask-image: url(https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin.svg);
+      width: 35px;
+
+      &:hover {
+        background: #0077b5;
+      }
+    }
+    
+    .icon-orcid {
+      mask-image: url(https://raw.githubusercontent.com/jpswalsh/academicons/master/svg/orcid.svg);
+
+      &:hover {
+        background: #a6ce39;
+      }
+    }
+
+    .icon-scopus {
+      mask-image: url(https://raw.githubusercontent.com/jpswalsh/academicons/master/svg/scopus.svg);
+      
+      &:hover {
+        background: #eb6500;
+      }
+    }
+
+    .icon-webofscience {
+      mask-image: url(https://raw.githubusercontent.com/jpswalsh/academicons/master/svg/clarivate.svg);
+      
+      &:hover {
+        background: #5e30c0;
+      }
+    }
+
+    .icon-lattes {
+      mask-image: url(https://raw.githubusercontent.com/jpswalsh/academicons/master/svg/lattes.svg);
+      height: 45px;
+      
+      &:hover {
+        background: #4b4a8a;
+      }
+    }
+
+    .icon-timevisao {
+      mask-image: url(https://timevisaoupe.github.io/assets/images/Logo_Completo.png);
+      height: 45px;
+      
+      &:hover {
+        background: #4b4a8a;
+      }
+    }
+
+    .icon-deltav {
+      mask-image: url(https://deltavquad.github.io/assets/iconbranco-CMq4SDDw.webp);
+      height: 45px;
+      
+      &:hover {
+        background: #4b4a8a;
+      }
+    }
+  }
+}

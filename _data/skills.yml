@@ -118,3 +118,7 @@
   level: 2
   category: Software
   tag: software
+- name: Android/Kotlin
+  level: 2
+  category: Programming languages
+  tag: language

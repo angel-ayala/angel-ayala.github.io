@@ -1,0 +1,84 @@
+- date: "Present<br>Aug 2020"
+  title: "Machine learning researcher/developer"
+  institution: "Freelance"
+  tasks:
+    - "Developing deep learning solutions in different application area."
+
+- date: "Nov 2025<br>Sep 2025"
+  title: "Internship with CAPES/PDSE scholarship"
+  institution: "University of New South Wales"
+  tasks:
+    - "Developing sim2real experiments of State Representation Learning approaches with a Crazyflie drone."
+
+- date: "Dec 2020"
+  title: "Teaching Assistant"
+  institution: "Universidad Central de Chile"
+  tasks:
+    - "Teaching experimental lessons for the Robotics lecture by <a href='https://franciscocruz.org/' target='_blank'>Francisco Cruz</a> about Reinforcement learning algorithms."
+
+- date: "Apr 2021<br>May 2020"
+  title: "Posgraduate program TI Assistant"
+  institution: "Universidade de Pernambuco"
+  tasks:
+    - "User support for its management internal system."
+    - "Administrator of the University's REDCap portal, an online web platform for project's data management."
+
+- date: "Feb 2019<br>Jan 2019"
+  title: "RPA Developer"
+  institution: "Gestiona Procesos Chile Ltda"
+  tasks:
+    - "Development of automated solutions with UiPath for the management of bank documentation for real estate purchase/sale orders."
+    - "Collaborative work with other members of different projects, using the same automation base and standard process design."
+
+- date: "Dec 2018<br>Sep 2018"
+  title: "Teaching Assistant"
+  institution: "Universidad Central de Chile"
+  tasks:
+    - "Teaching experimental lessons for the Intelligent Systems lecture by <a href='https://franciscocruz.org/' target='_blank'>Francisco Cruz</a> about Reinforcement learning basics."
+
+- date: "Aug 2018<br>Jan 2018"
+  title: "Full-Stack Web Developer"
+  institution: "Controler Group S.P.A."
+  tasks:
+    - "Responsible of a small work team to configure, monitor and, develop bug fixes and new features of a ERP platform."
+    - "Responsible of client's software requirements, requirements analysis, priority definition and tasks assignment for the work team, for new features and bug fixes."
+    - "Implement software architecture's design patterns to improve the ERP platform written in PHP."
+    - "Implement improvement in frontend's request with AJAX."
+    - "Optimize visual aspect through Bootstrap with HTML5 and CSS3."
+    - "Set up and maintenance of HTTP and DB services in Linux server."
+
+- date: "Dec 2017<br>Mar 2017"
+  title: "Web Developer"
+  institution: "Factronica S.P.A."
+  tasks:
+    - "Bug fixes and development of new features for the ERP platform written in PHP, Javascript, HTML5 and CSS3."
+
+- date: "Dec 2017<br>Aug 2015"
+  title: "Risk Intelligence Area Support"
+  institution: "Mutual Asesorías S.A."
+  tasks:
+    - "Develop and maintain the database for risk prevention management of the holding CENCOSUD."
+    - "Produce monthly statistical reports on the accident rate; as well as quarterly reports on the compliance of the prevention activities."
+    - "Develop Excel spreadsheets for reports, data management, among others."
+
+- date: "Sep 2014<br>Oct 2012"
+  title: "Risk Prevention Dept. Assistant"
+  institution: "Mutual Asesorías S.A."
+  tasks:
+    - "Responsible for maintaining information about accidents and members of CENCOSUD holding's risk prevention department."
+    - "Responsible for keeping track of (some) activities carried out by the prevention officers."
+    - "Produce monthly statistical reports on the accident rate, using a standard format developed specifically for this purpose; as well as quarterly reports on the compliance of ctivities with performance indicators."
+    - "Generate and update monthly and quarterly report formats."
+
+- date: "Oct 2012<br>Aug 2012"
+  title: "Plant Technician"
+  institution: "Indura S.A."
+  tasks:
+    - "Responsible of repair and maintenance of industrial power tools (emery, drills, among others)"
+
+- date: "Apr 2012<br>Dec 2011"
+  title: "Technical Assistant (Internship)"
+  institution: "Indura S.A."
+  tasks:
+    - "Assist in check status and budget elaboration of welding machine repairs."
+    - "Assist in repair and maintenance of industrial welding machines."
