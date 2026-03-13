@@ -114,11 +114,15 @@
   level: 2
   category: Machine learning libraries
   tag: ML
-- name: ROS
+- name: Robot Operating System (ROS)
   level: 2
-  category: Software
-  tag: software
+  category: Middleware
+  tag: middleware
 - name: Android/Kotlin
   level: 2
   category: Programming languages
   tag: language
+- name: MicroAirVehicleLing (MAVLink)
+  level: 2
+  category: Middleware
+  tag: middleware
