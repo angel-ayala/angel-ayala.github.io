@@ -13,11 +13,10 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Angel Ayala # author name
   bio: >- # tell to the world
-    👋 I'm a PhD student at the Universidade de Pernambuco in Recife, Brazil.
-    Developed works address deep learning and computer vision approaches for fire recognition.
-    Currently researching state representation learning methods for UAV control in fire emergencies.
-    Studies address solving an autonomous object-goal navigation problem with a quadcopter using sample-efficient reinforcement learning algorithms.
-    Therefore, research interest includes robotics, computer vision, and decision-making.
+    👋 I received my Computer Engineering PhD at the Universidade de Pernambuco in Recife, Brazil.
+    Developed studies addressed solving an autonomous object-goal navigation problem with a quadcopter using sample-efficient reinforcement learning algorithms.
+    Previous research focused on perception for fire recognition with deep learning and computer vision approaches.
+    Current research interest includes robotics, computer vision, and decision-making focused on multi-agent systems.
   username: angel-ayala # general username
   github: angel-ayala # github username
   twitter: # twitter username
