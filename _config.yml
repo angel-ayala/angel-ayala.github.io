@@ -1,5 +1,5 @@
 # Site settings
-title: Angel Ayala | PhD candidate # site title
+title: Angel Ayala | PhD in Computer Science # site title
 description: >- # site description
   He is currently pursuing a Ph.D. at the Universidade de Pernambuco, Brazil,
   meet the developed projects at <a href="https://github.com/angel-ayala" target="_blank" rel="noopener">@github</a>.
@@ -13,7 +13,7 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Angel Ayala # author name
   bio: >- # tell to the world
-    👋 I received my Computer Engineering PhD at the Universidade de Pernambuco in Recife, Brazil.
+    👋 I received my Computer Science PhD at the Universidade de Pernambuco in Recife, Brazil.
     Developed studies addressed solving an autonomous object-goal navigation problem with a quadcopter using sample-efficient reinforcement learning algorithms.
     Previous research focused on perception for fire recognition with deep learning and computer vision approaches.
     Current research interest includes robotics, computer vision, and decision-making focused on multi-agent systems.
@@ -23,7 +23,7 @@ author:
   facebook: # facebook username
   email: aaam [at] ecomp.poli.br # email adress
   avatar: /assets/img/perfil_cuadrado.png # change with your own avatar
-  affiliation: PhD. candidate at Universidade de Pernambuco
+  affiliation: PhD. in Computer Science at Universidade de Pernambuco
   affiliation_url: https://w2.solucaoatrio.net.br/somos/upe-ppgec/index.php/pt/
 
 # URL settings
