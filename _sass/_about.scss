@@ -33,13 +33,6 @@
       }
     }
 
-    a {
-      text-decoration: underline dashed;
-      &[target="_blank"]::after {
-        content: none;
-      }
-    }
-
   }
 
   table.degrees-list {
