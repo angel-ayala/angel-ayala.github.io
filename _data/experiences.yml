@@ -5,12 +5,19 @@
     - "Developing deep learning solutions in different application area."
 
 - date: "Nov 2025<br>Sep 2025"
-  title: "Internship with CAPES/PDSE scholarship"
+  title: "Ph.D. Visiting fellow within the <a href='https://a2r2lab.org/people.html' target='_blank'>A2R2 Group</a>"
   institution: "University of New South Wales"
   tasks:
     - "Developing sim2real experiments of State Representation Learning approaches with a Crazyflie drone."
 
-- date: "Dec 2020"
+- date: "Jul 2022<br>Fev 2021"
+  title: "Sessional Lecturer"
+  institution: "Universidad Central de Chile"
+  tasks:
+    - "Teaching neural networks and artificial intelligence in the Magíster en análisis de datos para la inteligencia de negocios"
+    - "Teaching reinforcement learning for robotics in the Magíster en Tecnologías de la Información, Comunicación y Automatización"
+
+- date: "Jan 2021<br>Dec 2020"
   title: "Teaching Assistant"
   institution: "Universidad Central de Chile"
   tasks:
