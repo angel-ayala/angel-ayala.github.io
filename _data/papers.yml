@@ -1,12 +1,21 @@
 - title: >-
-    Explainability Through Axioms: An Axiomatic Explainable Reinforcement Learning Framework
+    Self-Predictive Representation for Autonomous UAV Object-Goal Navigation
   author: >-
-    Hashemi, Maryam and Darejeh, Ali and Ayala, Angel and Cruz Naranjo, Francisco
-  booktitle: (submitted to SSRN)
-  pages: 1-6
-  year: 2024
-  organization: SSRN
-  url: https://ssrn.com/abstract=5231608
+    Ayala, Angel and Sui, Donling and Cruz, Francisco and Torok, Mitchell and Deghat, Mohammad and Fernandes, Bruno JT
+  booktitle: Metaverse, Generative AI, and Brain--Computer Interfaces
+  pages: 166-199
+  year: 2026
+  organization: arXiv preprint arXiv:2604.21130
+  url: https://arxiv.org/pdf/2604.21130
+- title: >-
+    Framework for Real-Time Robotic Manipulation in the Metaverse Using Digital Twins and Reinforcement Learning
+  author: >-
+    Nandi, Arkapravo and Darejeh, Ali and Bamdad, Mahdi and Ayala, Angel and Cruz, Francisco and Sepasgozar, Samad ME
+  booktitle: Metaverse, Generative AI, and Brain--Computer Interfaces
+  pages: 166-199
+  year: 2026
+  organization: Routledge
+  url: https://www.taylorfrancis.com/chapters/edit/10.1201/9781003557555-8
 - title: >-
     How Can LLMs and Knowledge Graphs Contribute to Robot Safety? A Few-Shot
     Learning Approach
