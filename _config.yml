@@ -1,7 +1,7 @@
 # Site settings
-title: Angel Ayala | Ph.D. in Computer Science # site title
+title: Angel Ayala | Research Fellow at FURG # site title
 description: >- # site description
-  He is currently pursuing a Ph.D. at the Universidade de Pernambuco, Brazil,
+  He is currently a Research Fellow at Universidade Federal do Rio Grande (FURG), Brazil,
   meet the developed projects at <a href="https://github.com/angel-ayala" target="_blank" rel="noopener">@github</a>.
 lang: en-US # default lang
 timezone: America/Fortaleza # set your timezone
@@ -13,18 +13,18 @@ mode: dark # default theme "dark" | "light"
 author:
   name: Angel Ayala # author name
   bio: >- # tell to the world
-    👋 I received my Computer Science Ph.D. at the Universidade de Pernambuco in Recife, Brazil.
-    Developed studies addressed sample-efficient reinforcement and representation learning algorithms on the autonomous object-goal navigation problem with a quadcopter.
-    Previous research focused on perception for fire recognition with deep learning and computer vision approaches.
-    Current research interest includes robotics, computer vision, and decision-making focused on multi-agent systems.
+    👋 I am currently a Research Fellow at Universidade Federal do Rio Grande (FURG), Brazil, working on autonomous navigation and cooperative multi-agent systems involving heterogeneous aerial and underwater vehicles.
+    My current research interests include AI for autonomous robotics, learning-based navigation, perception, and decision-making.
+    I received my Computer Science Ph.D. from Universidade de Pernambuco, Recife, Brazil. My doctoral research focused on sample-efficient reinforcement learning and state representation learning for autonomous object-goal navigation using quadcopters, exploring bio-inspired and stochastic representations.
+    Previous research addressed deep learning and computer vision approaches for fire recognition, as well as the development of autonomous UAV navigation architectures and onboard robotic systems.
   username: angel-ayala # general username
   github: angel-ayala # github username
   twitter: # twitter username
   facebook: # facebook username
-  email: aaam [at] ecomp.poli.br # email adress
+  email: ange.ayala [at] furg.br # email adress
   avatar: /assets/img/perfil_cuadrado.png # change with your own avatar
-  affiliation: Ph.D. in Computer Science at Universidade de Pernambuco
-  affiliation_url: https://w2.solucaoatrio.net.br/somos/upe-ppgec/index.php/pt/
+  affiliation: Research Fellow at Universidade Federal do Rio Grande
+  affiliation_url: https://c3.furg.br/
 
 # URL settings
 url: "https://angel-ayala.github.io" #
